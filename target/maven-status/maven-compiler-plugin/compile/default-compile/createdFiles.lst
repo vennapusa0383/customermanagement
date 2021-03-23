@@ -1,7 +1,0 @@
-com\devon\customermanagement\config\PersistenceJPAConfig.class
-com\devon\customermanagement\config\WebMvcConfig.class
-com\devon\customermanagement\App.class
-com\devon\customermanagement\controller\CustomerController.class
-com\devon\customermanagement\entity\Customer.class
-com\devon\customermanagement\repository\CustomerRepository.class
-com\devon\customermanagement\config\AppInitializer.class
